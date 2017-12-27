@@ -3,8 +3,8 @@ Implementação de um aplicativo capaz de calcular o valor médio de uma funçã
 
 ### Integrantes
 
-Guilherme Cardoso Silva
-Flávia Santos Ribeiro
+- Guilherme Cardoso Silva
+- Flávia Santos Ribeiro
 
 ### Instruções Para Compilar
 
